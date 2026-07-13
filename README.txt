@@ -1,4 +1,5 @@
-menaka Project Management with Git - Syllabus Improvement Repository
+menaka 
+Project Management with Git - Syllabus Improvement Repository
 
 Purpose
 This repository stores academic documents used to improve the syllabus for the
