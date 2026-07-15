@@ -1,4 +1,4 @@
-menaka 
+menaka day3 fdp attended
 Project Management with Git - Syllabus Improvement Repository
 
 Purpose
